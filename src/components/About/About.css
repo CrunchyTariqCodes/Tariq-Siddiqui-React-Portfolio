@@ -45,5 +45,6 @@ img{
   img{
     width: 100%;
     justify-content: center;
+    padding-right: 3%;
   }
 }
