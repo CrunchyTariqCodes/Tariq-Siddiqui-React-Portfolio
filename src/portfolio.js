@@ -25,15 +25,15 @@ const projects = [
     description:
       'Fullstack application allowing employees to book reservations, manage restaurant tables, and search archived reservation information',
     stack: ['Javascript', 'React', 'Node', 'Express', 'Knex', 'PostgreSQL'],
-    sourceCode: 'https://github.com',
-    // livePreview: 'https://github.com',
+    sourceCode: 'https://github.com/CrunchyTariqCodes/Restaurant-Reservation-App',
+    livePreview: 'https://tariqs-restaurant-frontend.herokuapp.com/dashboard',
   },
   {
     name: 'Food Delivery App - Backend',
     description:
       'Backend API for ordering food deliveries using a corresponding routing system with complex validation middleware following RESTful API design principles',
     stack: ['Node', 'Express'],
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://github.com/CrunchyTariqCodes/Thinkful_GrubDash',
     // livePreview: 'https://github.com',
   },
   {
@@ -41,7 +41,7 @@ const projects = [
     description:
       'Front end application allowing both students and teachers to create, manage, and study flashcards and entire decks of flashcards as an educational tool',
     stack: ['React', 'Javascript', 'React Hooks'],
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://github.com/CrunchyTariqCodes/Thinkful-Flashcard-Project',
     // livePreview: 'https://github.com',
   },
 ]
